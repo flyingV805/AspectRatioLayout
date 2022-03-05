@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AspectRatioLayout">
+        <attr name="direction" value="vertical" format="string" />
+        <attr name="ratio" value="1:1" format="string" />
+    </declare-styleable>
+
+</resources>
