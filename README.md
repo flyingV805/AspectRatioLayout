@@ -26,7 +26,6 @@ dependencies {
     ...
 }
 ```
-replacing ${version} with the version you wish to use
 
 ## Usage
 
