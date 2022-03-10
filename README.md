@@ -22,7 +22,7 @@ to use the Jitpack.IO Repository
 ```groovy
 dependencies {
     ...
-    implementation 'com.github.flyingV805:ExpandableLinearLayout:${version}'
+    implementation 'com.github.flyingV805:ExpandableLinearLayout:0.0.2'
     ...
 }
 ```
