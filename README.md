@@ -3,6 +3,7 @@
 # AspectRatioLayout
 FrameLayout with aspect ratio parameter
 
+<img src="https://github.com/flyingV805/AspectRatioLayout/blob/master/img/example.jpg" width="300" />
 
 ## Install
 
